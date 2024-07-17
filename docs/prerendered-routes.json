@@ -1,0 +1,9 @@
+{
+  "routes": [
+    "/",
+    "/booking",
+    "/cars",
+    "/dashboard",
+    "/login"
+  ]
+}
